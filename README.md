@@ -18,7 +18,6 @@ npm install or yarn install
 4. Use the adonis command to install Project :
 ```js
  adonis key:generate
- adonis migration:run
 ```
 5. Run this Project
 ```js
